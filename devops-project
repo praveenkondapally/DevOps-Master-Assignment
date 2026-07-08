@@ -1,0 +1,12 @@
+student-devops-project
+│
+├── pom.xml
+├── Dockerfile
+├── Jenkinsfile
+│
+└── src
+    └── main
+        └── java
+            └── com
+                └── devops
+                    └── App.java
