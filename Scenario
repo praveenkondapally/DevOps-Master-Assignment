@@ -1,0 +1,13 @@
+Scenario
+
+ABC Technologies wants to automate the deployment of a Java application. As a DevOps Engineer, your responsibility is to build a complete CI/CD pipeline using Git, Jenkins, Maven, and Docker.
+
+You have been assigned to:
+
+Develop a Java Maven application.
+Store the code in GitHub.
+Configure Jenkins to automatically build the project.
+Package the application into a Docker image.
+Deploy the application inside a Docker container.
+Verify the deployment.
+Update the application and redeploy automatically.
